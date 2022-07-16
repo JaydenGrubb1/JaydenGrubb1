@@ -1,4 +1,12 @@
-[![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaydenGrubb1&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenGrubb1&theme=prussian&langs_count=8&count_private=true&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=JaydenGrubb1&count_private=true&show_icons=true&theme=prussian" />
+</a>
+<a>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ 
+</a>
 
 ### Hi there 👋
 
