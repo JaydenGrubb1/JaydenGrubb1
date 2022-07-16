@@ -1,7 +1,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenGrubb1&theme=prussian&langs_count=4&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=JaydenGrubb1&count_private=true&show_icons=true&theme=prussian" />
 </a>
 <a>
